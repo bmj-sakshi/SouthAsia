@@ -1,2 +1,2 @@
 # SouthAsia
-Creating a project for South-aisa site
+Test automation project for South-aisa site
